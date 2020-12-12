@@ -1,2 +1,2 @@
 # Taegeukgi_Classifier
-to classify Taegeukgi, use U-Net 
+- Use U-Net to classify Taegeukgi 
